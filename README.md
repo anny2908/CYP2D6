@@ -31,7 +31,7 @@ En esta área se encuentra una breve introducción del tema.
 
 Visualización por fenotipo:
 Para observar la distribución de cada fenotipo de acuerdo con la región, navegue  a la ventana *Fenotipos* y del botón despegable seleccione el fenotipo que desee visualizar. 
-![](./images/Fenotipos.png)
+![](/images/Fenotipos.png)
 ![](./images/Fenotipos_2.png)
 
 Efectos adversos:

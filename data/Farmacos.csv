@@ -1,0 +1,10 @@
+Fármaco,Fenotipo,Reacción adversa
+Clomipramina,UM,Falla terapéutica
+Clomipramina,IM,Incremento en Reacciones Adversas
+Clomipramina,PM,Riesgo de Intoxicación por concentraciones plasmáticas elevadas
+Paroxetina,UM,Falla terapéutica
+Paroxetina,IM,Incremento en Reacciones Adversas
+Fluvoxamina,PM,Riesgo de Intoxicación por concentraciones plasmáticas elevadas
+Desipramine,PM,Riesgo de Intoxicación por concentraciones plasmáticas elevadas
+Amitriptilina,PM,Riesgo de intoxicación por concentraciones plasmáticas elevadas. Incremento en T1/2e
+Imipramina,PM,Riesgo de intoxicación por concentraciones plasmáticas elevadas. Incremento en T1/2e

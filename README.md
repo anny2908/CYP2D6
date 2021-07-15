@@ -57,7 +57,7 @@ El manuscrito con información más completa puede localizarlo en la siguiente l
 
 Para saber mas de Dash [Dash](https://plot.ly/dash).
 
-Esta aplicación fue desarrollada como parte de uhn proyecto en el prorama 'Health Data SCience Program (HDS-Program) por [Anny Olivares Mundo](https://www.linkedin.com/in/anny-olivares-mundo-84261a201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJzXidXO%2BSweC88UtZ9zvJg%3D%3D) y [Nidia Samara Rodríguez Rivera](https://www.linkedin.com/in/nidia-rodr%C3%ADguez-rivera-60a03948/)' 
+Esta aplicación fue desarrollada como parte de uhn proyecto en el prorama 'Health Data Science Program (HDS-Program) por [Anny Olivares Mundo](https://www.linkedin.com/in/anny-olivares-mundo-84261a201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJzXidXO%2BSweC88UtZ9zvJg%3D%3D) y [Nidia Samara Rodríguez Rivera](https://www.linkedin.com/in/nidia-rodr%C3%ADguez-rivera-60a03948/)' 
 
 Los datos para esta aplicación fueron tomados de [Gene-specific Information Tables for cytochrome P450 2D6 (CYP2D6)](https://www.pharmgkb.org/page/cyp2d6RefMaterials) [1]
 

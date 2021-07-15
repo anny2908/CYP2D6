@@ -26,21 +26,21 @@ $python3 app.py
 ##Previsualización
 
 Vista inicial del dashboard:
-![](./images/Visualizacion_completa.png)
+![](https://github.com/anny2908/CYP2D6/blob/main/Images/Visualizacion_completa.png)
 En esta área se encuentra una breve introducción del tema. 
 
 Visualización por fenotipo:
 Para observar la distribución de cada fenotipo de acuerdo con la región, navegue  a la ventana *Fenotipos* y del botón despegable seleccione el fenotipo que desee visualizar. 
-![](/images/Fenotipos.png)
-![](./images/Fenotipos_2.png)
+![](https://github.com/anny2908/CYP2D6/blob/main/Images/Fenotipos.png)
+![](https://github.com/anny2908/CYP2D6/blob/main/Images/Fenotipos_2.png)
 
 Efectos adversos:
 Para obtener información sobre los efectos adversos, navegue a la ventana *Efectos adversos* y visualice la información. 
-![](./images/Efectosadversos.png)
+![](https://github.com/anny2908/CYP2D6/blob/main/Images/Efectosadversos.png)
 
 Ligas para obtener más información:
 Para obtener las referencias, navegue hasta la ventana *Más información*, aquí encontrará información adicional y ligas que redirigen a recursos externos como guías farmacológicas.
-![](./images/Mas_informacion.png)
+![](https://github.com/anny2908/CYP2D6/blob/main/Images/Mas_informacion.png)
 
 
 ## Recursos 

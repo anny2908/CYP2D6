@@ -43,7 +43,7 @@ Para obtener las referencias, navegue hasta la ventana *Más información*, aqu�
 ![](https://github.com/anny2908/CYP2D6/blob/main/Images/Mas_informacion.png)
 
 
-## Recursos 
+## Recursos y referencias 
 
 Para saber más de Dash [Dash](https://plot.ly/dash).
 
@@ -51,16 +51,23 @@ Esta aplicación fue desarrollada como parte de un proyecto en el programa 'Heal
 
 Los datos para esta aplicación fueron tomados de [Gene-specific Information Tables for cytochrome P450 2D6 (CYP2D6)](https://www.pharmgkb.org/page/cyp2d6RefMaterials) [6]
 
+Esta aplicación fue desarrollada tomando como plantilla el código de [Dashbio-demos-Aligment-chart] (https://github.com/plotly/dash-bio/tree/master/tests/dashbio_demos). 
+
 El manuscrito con información más completa puede localizarlo en la siguiente liga de GoogleDocs 'https://drive.google.com/file/d/1cCTt24htDxX25qvn7KculZTsBzxso5f2/view?usp=sharing'
 
 
 [1] World Health Organization 2008, The Global Burden of Disease 2004 update. http://www.who.int/healthinfo/global_burden_disease/GBD_
     report_2004update_full.pdf Accessed 16.6.2012.
+    
 [2] Cacabelos, R. (2020). Pharmacogenomics of Cognitive Dysfunction and Neuropsychiatric Disorders in Dementia.
     Int J Mol Sci, 21(9). doi:10.3390/ijms21093059.
+    
 [3] Hicks, J. K., Swen, J. J., Thorn, C. F., Sangkuhl, K., Kharasch, E. D., Ellingrod, V. L., . . .Clinical Pharmacogenetics Implementation, C.           (2013). Clinical Pharmacogenetics Implementation Consortium guideline for CYP2D6 and CYP2C19 genotypes and dosing of tricyclic antidepressants.       Clin Pharmacol Ther,93(5), 402-408. doi:10.1038/clpt.2013.2.
+
 [4] Clarke, L., Zheng-Bradley, X., Smith, R., Kulesha, E., Xiao, C., Toneva, I., . . . Genomes Project, C. (2012). The 1000 Genomes Project: data          management and community access. Nat Methods, 9(5), 459-462. doi:10.1038/nmeth.197.
+
 [5] Whirl-Carrillo, M., McDonagh, E. M., Hebert, J. M., Gong, L., Sangkuhl, K., Thorn, C. F., . . . Klein, T. E. (2012).  Pharmacogenomics knowledge       for personalized medicine. Clin Pharmacol Ther, 92(4), 414-417. doi:10.1038/clpt.2012.96
+
 [6] M. Whirl-Carrillo, E.M. McDonagh, J. M. Hebert, L. Gong, K. Sangkuhl, C.F. Thorn, R.B. Altman and T.E. Klein. "Pharmacogenomics Knowledge for         Personalized Medicine" Clinical Pharmacology & Therapeutics (2012) 92(4): 414-417.
 
 Para saber mas de Dash [Dash](https://plot.ly/dash).

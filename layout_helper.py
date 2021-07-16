@@ -80,7 +80,7 @@ def app_page_layout(page_layout,
                         children=[
                             'View on GitHub'
                         ],
-                        href="http://github.com/plotly/dash-bio/"
+                        href="https://github.com/anny2908/CYP2D6"
                         "blob/master/tests/dashbio_demos/dash-{}/app.py".format(
                             app_name
                         ),
